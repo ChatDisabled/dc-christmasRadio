@@ -1,0 +1,1 @@
+This resource will add a christmas station to your radiowheel. *Supposedly* if you were to download [this](https://drive.google.com/file/d/1Zy32WVitHbkzE8vZeHhJWjsenPzRS3yO/view?usp=sharing) ZIP file and put its contents into the songdirectory folder this resource will be complete and ready to use.
